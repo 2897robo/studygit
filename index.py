@@ -3,4 +3,3 @@ hello
 print
 apple
 juice
-potato
