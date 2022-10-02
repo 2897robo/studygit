@@ -5,3 +5,5 @@ apple
 juice
 
 new line
+
+git diffffff
